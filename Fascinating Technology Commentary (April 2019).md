@@ -1,0 +1,5 @@
+# Fascinating Technology Commentary (April 2019)
+
+* Microsoft’s old approach was to write every line of code. Modern startups, Friedman says, write around 5 percent of their code, relying on open-source tools for the rest. [How Microsoft learned from the past to redesign its future - The Verge](https://www.theverge.com/2019/4/29/18515776/microsoft-design-open-fluent-prototypes-history)
+* As the head of Google services and hardware Rick Osterloh puts it, the Nest brand is now a direct parallel to the Pixel brand. It’s just another line of hardware Google makes that’s focused on the home instead of on mobile. [Google Nest: Why Google finally embraced Nest as its smart home brand - The Verge](https://www.theverge.com/2019/5/7/18530609/google-nest-smart-home-brand-merging-hub-max-rebrand-io-2019)
+* For us, that means privacy cannot be a luxury good offered only to people who can afford to buy premium products and services. Privacy must be equally available to everyone in the world. [Opinion | Google’s Sundar Pichai: Privacy Should Not Be a Luxury Good - The New York Times](https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html)

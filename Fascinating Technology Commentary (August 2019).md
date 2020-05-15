@@ -1,0 +1,3 @@
+# Fascinating Technology Commentary (August 2019)
+
+* An anonymous Silicon Valley partner calls SoftBank a “big stack bully,” which is a poker expression for someone who has so many chips that no one else will bet. The investments made by SoftBank are huge — and often push the companies SoftBank has invested in past their competition in both valuation and scale. [WeWork isn’t a tech company; it’s a soap opera - The Verge](https://www.theverge.com/2019/8/15/20806366/we-company-wework-ipo-adam-neumann)

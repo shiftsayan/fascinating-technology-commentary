@@ -1,0 +1,3 @@
+# Fascinating Technology Commentary (July 2019)
+
+* A half-dozen American food-delivery companies are battling for dominance. Consolidation seems inevitable. The US doesn’t need so many venture-backed companies in an industry defined by low margins, similar services, and fickle customer loyalty. And yet no end has appeared in sight. [Postmates IPO: Food-delivery startup has explored sale to Uber, DoorDash, or Walmart instead of going public - Vox](https://www.vox.com/recode/2019/7/11/20688108/postmates-acquisition-ipo-doordash-walmart-uber)
